@@ -1,0 +1,9 @@
+.mainPage {
+  background-image: url("./img/mainBack.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+  width: 100vw;
+  height: 145vh;
+}
